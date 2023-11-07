@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>percabangan</title>
+</head>
+<body>
+    <script>
+    Var bil1 = prompt( "masukan bilamgam 1" );
+    var bil2 = prompt( "masukan bilangan 2" );
+    alert(parseInt(bil1) + parseInt (bil2));
+    document.write ( " hasilnya adalah " + "<br>");
+
+    </script>
+</body>
+</html> 
